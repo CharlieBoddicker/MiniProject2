@@ -1,14 +1,3 @@
-The project's inactivity gap was easier to interpret than some of the others because it occurred after a series of bug fixes, documentation updates, and a version release. This makes the gap look like a pause between development cycles rather than abandonment.
+The longest gap in this project was easier to interpret because it happened after the version 1.1.0 release and several bug fixes and documentation updates. Because of where the gap occurred, I think it was most likely a normal pause between development or release cycles instead of abandonment.
 
-The project recovered strongly after the gap. New work included a networks package, a Network class, new interfaces, examples, and other feature development. The large amount of activity after the gap suggests that the project successfully moved into another major development phase.
-
-## Project Statistics
-
-- Activity Pattern: irregular
-- Longest Gap: 2018-04 to 2018-10
-- Longest Gap Length: 7 months
-- Number of Gaps of at Least 3 Months: 7
-- Has Recovered: Yes
-- Recovery Contributors: Returning: Unknown
-- Current Status: Active
-- Recent Commit Themes: Other:Bug fixes
+The recovery after the gap was much stronger than most of the other projects. Development returned with a networks package, a Network class, new interfaces, examples, and other new features. There were also more than 1,000 commits after the gap, which shows that development continued for a long time afterward. I think this is a good example of a project taking a development break and then successfully beginning another major development period.

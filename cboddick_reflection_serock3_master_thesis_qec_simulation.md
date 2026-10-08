@@ -1,14 +1,3 @@
-This project's inactivity was easier to understand because the repository was connected to a Master's thesis and a short continuation project. That context makes it reasonable that activity would slow or stop after the academic work was largely completed.
+This project's inactivity was easier to understand because the repository was created as part of a Master's thesis and a short continuation project. Because academic projects usually have a specific ending point, I think the inactivity was most likely related to the thesis work reaching completion rather than a technical problem with the project.
 
-The project showed only a very small amount of activity after the gap, mainly involving README spelling and grammar changes. Because the return was limited to minor documentation work, I would describe the recovery as brief rather than a full restart of development.
-
-## Project Statistics
-
-- Activity Pattern: cyclical
-- Longest Gap: 2021-11 to 2021-11
-- Longest Gap Length: 1 months
-- Number of Gaps of at Least 3 Months: 0
-- Has Recovered: Yes
-- Recovery Contributors: Returning: Sebastian Holmin
-- Current Status: Inactive
-- Recent Commit Themes: Feature development:Other
+There was only one commit after the gap, and it involved small README spelling and grammar changes. This suggests that the author returned briefly to make final documentation changes instead of beginning another development cycle. The project is now inactive, which also supports the idea that the repository had mostly reached its intended completion.

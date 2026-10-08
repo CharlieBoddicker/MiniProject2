@@ -1,14 +1,3 @@
-The project had a major inactivity period even though its overall activity was relatively steady. The longest gap was somewhat difficult to interpret because the commits immediately before it involved normal compatibility, CI, documentation, and maintenance work rather than an obvious event that caused development to stop.
+I found this project's longest gap somewhat difficult to interpret because there was not one obvious event that caused development to stop. Before the gap, most of the commits were normal compatibility updates, CI work, documentation changes, and smaller feature work. Because of this, I think the 29-month gap was more likely a temporary break between development and maintenance cycles rather than the project being abandoned.
 
-Based on the surrounding commits, I think the gap was most likely a pause between maintenance or release cycles. Activity eventually returned through dependency and compatibility updates, a version bump, and build-related work. This suggests the project did recover, although the type of work after the gap was focused more on maintenance than major new development.
-
-## Project Statistics
-
-- Activity Pattern: cyclical
-- Longest Gap: 2023-02 to 2025-06
-- Longest Gap Length: 29 months
-- Number of Gaps of at Least 3 Months: 3
-- Has Recovered: Yes
-- Recovery Contributors: Returning: CompatHelper Julia, Documenter.jl, Fredrik Bagge Carlson
-- Current Status: Active
-- Recent Commit Themes: Other:Automated bot contributions
+The project eventually became active again through dependency updates, compatibility maintenance, a version bump, and build-related work. Some of this recovery was also driven by automated tools such as CompatHelper. Since activity continued after the gap and the project is currently active, I believe this was a temporary pause rather than the end of development.

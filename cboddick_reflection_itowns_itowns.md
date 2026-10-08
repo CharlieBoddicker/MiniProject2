@@ -1,14 +1,3 @@
-This project did not have a qualifying inactivity gap in the monthly timeline. Its activity remained relatively steady, which made it different from many of the other projects in the analysis.
+This project was different from most of the others because it did not have an inactivity gap at all. Its overall pattern was classified as declining because the larger commit spikes became smaller over time, but development still continued throughout the entire timeline. Because there was never a period with zero activity, there was no recovery event that needed to be explained.
 
-Because there was no long period of zero commits, there was no specific recovery event to interpret. The continued activity suggests that development and maintenance were sustained across the project's timeline rather than occurring in isolated bursts.
-
-## Project Statistics
-
-- Activity Pattern: declining
-- Longest Gap: nan to nan
-- Longest Gap Length: 0 months
-- Number of Gaps of at Least 3 Months: 0
-- Has Recovered: nan
-- Recovery Contributors: nan
-- Current Status: Active
-- Recent Commit Themes: Other
+I think this shows that a project can have declining activity without necessarily becoming inactive. iTowns continued receiving commits and is still classified as active, so even though the amount of activity decreased over time, development and maintenance never completely stopped.

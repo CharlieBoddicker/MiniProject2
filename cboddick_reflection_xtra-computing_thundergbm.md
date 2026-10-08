@@ -1,14 +1,3 @@
-The project had a declining activity pattern and several inactivity gaps. Before its longest gap, the commits focused heavily on optimization, efficiency improvements, and bug fixes, while activity after the gap was limited to only a couple of README updates.
+ThunderGBM showed a declining activity pattern before entering its longest inactivity gap. Before the gap, the commits focused heavily on optimization, efficiency improvements, and bug fixes. After the 13-month gap, only two README updates occurred, which makes the recovery look very different from projects that returned with major feature development.
 
-This made the gap relatively difficult to explain with certainty, but the pattern suggests that major development had already slowed substantially. Although the project technically became active again after the gap, the return was documentation-focused and did not represent a strong recovery of core development.
-
-## Project Statistics
-
-- Activity Pattern: declining
-- Longest Gap: 2024-02 to 2025-02
-- Longest Gap Length: 13 months
-- Number of Gaps of at Least 3 Months: 7
-- Has Recovered: Yes
-- Recovery Contributors: Returning: Borui Xu
-- Current Status: Inactive
-- Recent Commit Themes: Other:Bug fixes
+I think this suggests that the main development work had already slowed significantly before the gap. The project technically recovered because commits occurred afterward, but the recovery was very limited and focused only on documentation. Since the project is now classified as inactive, I would describe the post-gap activity as a short return for maintenance rather than a true recovery of active development.
