@@ -1,0 +1,375 @@
+pre/post;prj;commit;author;time;message
+pre;baggepinnen_spectraldistances.jl;bc207d18e0dcbff8f8339bca8daabc4b4104ae0a;Fredrik Bagge Carlson <baggepinnen@gmail.com>;1669453156;"up compat
+"
+pre;baggepinnen_spectraldistances.jl;0b3c45ed6d41a355ca7921c9a23f5ecaa5561815;Fredrik Bagge Carlson <baggepinnen@gmail.com>;1669454341;"fix docs build
+"
+pre;baggepinnen_spectraldistances.jl;dd4ecf352b37fcb8a7bd88b26229b0673534a706;Fredrik Bagge Carlson <baggepinnen@gmail.com>;1669454574;"add some missing methods
+"
+pre;baggepinnen_spectraldistances.jl;eca2365d3fda936df7c5414acf7619a9596ace95;Fredrik Bagge Carlson <baggepinnen@gmail.com>;1669454611;"run CI on julia v1.8
+"
+pre;baggepinnen_spectraldistances.jl;1a67549ce6e3ff77c716996873c86c81afd3c123;Documenter.jl <documenter@juliadocs.github.io>;1669455460;"build based on 0b3c45e
+"
+pre;baggepinnen_spectraldistances.jl;6323369ed3d1f19b2b806774b190cdb939aa50c6;Documenter.jl <documenter@juliadocs.github.io>;1669455774;"build based on eca2365
+"
+pre;baggepinnen_spectraldistances.jl;91f2213dfff36d61a381e4bb82b130ccea2ecbec;Fredrik Bagge Carlson <baggepinnen@gmail.com>;1669571466;"define Distances._result_type
+"
+pre;baggepinnen_spectraldistances.jl;f44358fea825a426dfe57b9abb5f50cc4276a5c4;Documenter.jl <documenter@juliadocs.github.io>;1669572513;"build based on 91f2213
+"
+pre;baggepinnen_spectraldistances.jl;ec09b12d1327509f7296f6eabe77144fc28946fc;CompatHelper Julia <compathelper_noreply@julialang.org>;1672708117;"CompatHelper: bump compat for Hungarian to 0.7, (keep existing compat)
+"
+pre;baggepinnen_spectraldistances.jl;0f718f4a80d6c4078f0cde9016ae1258008ce57e;github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>;1672708119;"Merge ec09b12d1327509f7296f6eabe77144fc28946fc into 91f2213dfff36d61a381e4bb82b130ccea2ecbec
+"
+post;baggepinnen_spectraldistances.jl;d72d02c5a4291400ae032200aed5423a625bb725;CompatHelper Julia <compathelper_noreply@julialang.org>;1751546414;"CompatHelper: bump compat for DSP to 0.8, (keep existing compat)
+"
+post;baggepinnen_spectraldistances.jl;f871f2a0fe3071cce7af74ad6501c479985cc020;CompatHelper Julia <compathelper_noreply@julialang.org>;1751546417;"CompatHelper: bump compat for StatsBase to 0.34, (keep existing compat)
+"
+post;baggepinnen_spectraldistances.jl;2b6d775d2950593b5c164219526dcde6181a92ea;CompatHelper Julia <compathelper_noreply@julialang.org>;1751546419;"CompatHelper: bump compat for FillArrays to 1, (keep existing compat)
+"
+post;baggepinnen_spectraldistances.jl;9878d5d3ac825335aff44f7e690ab710765afc99;CompatHelper Julia <compathelper_noreply@julialang.org>;1751546422;"CompatHelper: add new compat entry for Statistics at version 1, (keep existing compat)
+"
+post;baggepinnen_spectraldistances.jl;ae08a5ccd9ca077769fa455ba6f9afd80985c03b;Fredrik Bagge Carlson <baggepinnen@gmail.com>;1751553074;"compat updates
+"
+post;baggepinnen_spectraldistances.jl;a7afd854d95c7ce1eb7bbb0aa6d19e8cf28b9be6;Fredrik Bagge Carlson <baggepinnen@gmail.com>;1751553092;"bump version
+"
+post;baggepinnen_spectraldistances.jl;74f4206c26f255720ad8d8fd569a10f38c68e8c9;Fredrik Bagge Carlson <baggepinnen@gmail.com>;1751553116;"Merge branch 'master' of github.com:baggepinnen/SpectralDistances.jl
+"
+post;baggepinnen_spectraldistances.jl;22e4b3b3ea31293f36fd35ca6a66fd1b46040dbb;Documenter.jl <documenter@juliadocs.github.io>;1751553891;"build based on 74f4206
+"
+post;baggepinnen_spectraldistances.jl;34ec418e38ace50e07a48d9c17d12b4c7d23905d;CompatHelper Julia <compathelper_noreply@julialang.org>;1751587661;"CompatHelper: bump compat for FillArrays to 1, (keep existing compat)
+"
+post;baggepinnen_spectraldistances.jl;0678f5335b9787382ff6c5eb9944cc6d48220b58;CompatHelper Julia <compathelper_noreply@julialang.org>;1751587666;"CompatHelper: add new compat entry for Statistics at version 1, (keep existing compat)
+"
+pre;maria-korosteleva_garment-pattern-estimation;246f6a3fa0afa9af7083ab0c23bc1955ff38b426;Maria Korosteleva <maria@korosteleva.com>;1651567569;Update ReadMe.md
+pre;maria-korosteleva_garment-pattern-estimation;0519a88935543591723d5c24dab95e175b91bbdc;Maria Korosteleva <mariako@kaist.ac.kr>;1656387224;Add PapersWithCode badge
+pre;maria-korosteleva_garment-pattern-estimation;984270116ea46586c10d7f4cf9360cc106e4e6e6;Maria Korosteleva <mariako@kaist.ac.kr>;1663418102;Update Bibtex citation
+pre;maria-korosteleva_garment-pattern-estimation;5f57e5c348d19fd63d3363d32370261239003b68;Maria Korosteleva <6837635+maria-korosteleva@users.noreply.github.com>;1669063365;"support obj when predicting for individual example
+"
+pre;maria-korosteleva_garment-pattern-estimation;0c672d54fd68c85831141b61eaff34702122d0bf;Maria Korosteleva <6837635+maria-korosteleva@users.noreply.github.com>;1669063941;"update installation instructions
+"
+pre;maria-korosteleva_garment-pattern-estimation;5df5d9f0bbb205311cfa05f0bc1265c05c996077;DanCorvesor <dancorvesor@gmail.com>;1685566552;"updated requirements
+"
+pre;maria-korosteleva_garment-pattern-estimation;a68eaeeb2ba5a7c13422f452effbc6a0842a19e6;DanCorvesor <dancorvesor@gmail.com>;1685567006;"updated requirements
+"
+pre;maria-korosteleva_garment-pattern-estimation;68ae3a7377804268f60456dda5d86a15e77f1fca;Timur Kesdogan <tkesdogan@student.ethz.ch>;1699195107;"added instructions for Ubuntu installation
+"
+pre;maria-korosteleva_garment-pattern-estimation;a28f047e41cd96e5d844a32a94c0f3c9a8d0dfa3;Maria Korosteleva <6837635+maria-korosteleva@users.noreply.github.com>;1699270076;"Merge pull request #9 from tlk13/master
+
+added instructions for Ubuntu installation"
+pre;maria-korosteleva_garment-pattern-estimation;05999fb6a1b104870efc6d9c9f7608aa2b79ee81;Daniel Corvesor <dancorvesor@gmail.com>;1699881247;"Merge a68eaeeb2ba5a7c13422f452effbc6a0842a19e6 into a28f047e41cd96e5d844a32a94c0f3c9a8d0dfa3
+"
+post;maria-korosteleva_garment-pattern-estimation;99a59eeeefa09d0afc2bea7611cf554a2c009bd5;maria-korosteleva <6837635+maria-korosteleva@users.noreply.github.com>;1734983863;"fixes #11 update naming conventions for predictions on test set
+"
+post;maria-korosteleva_garment-pattern-estimation;b61f4c377d5e9366af8d2bd86ce7aefd919df81d;Daniel Corvesor <dancorvesor@gmail.com>;1736211317;"Merge a68eaeeb2ba5a7c13422f452effbc6a0842a19e6 into 99a59eeeefa09d0afc2bea7611cf554a2c009bd5
+"
+pre;massimocimmino_pygfunction;90da0f54a715109caaeb41cb95b777cf1c2c3dff;Unknown <massimo.cimmino@polymtl.ca>;1517521653;"Fix outputs of gfunction.mixed_inlet_temperature()
+
+"
+pre;massimocimmino_pygfunction;1c6bfe6170f7bfd0c2e54a9eb77718bfdf3dd56f;Unknown <massimo.cimmino@polymtl.ca>;1517522315;"Fix reference to Cimmino, 2018
+
+"
+pre;massimocimmino_pygfunction;203ae0d2a22aa9396b98f4a2296f5779397b2e61;Unknown <massimo.cimmino@polymtl.ca>;1517522359;"Docstrings for borehole_thermal_resistance and field_thermal_resistance
+
+"
+pre;massimocimmino_pygfunction;6257af77285464e43f867533fb930caea0769fc1;Unknown <massimo.cimmino@polymtl.ca>;1517522510;"Update CHANGELOG.md
+
+"
+pre;massimocimmino_pygfunction;065d53a9a85b004206c6feb7ece7678ae4e04e5d;Massimo Cimmino <massimo.cimmino@polymtl.ca>;1517523054;"Issue31 mixed inlet temperature (#34)
+
+"
+pre;massimocimmino_pygfunction;8f974e8043bab9986d9e83c89872821fca7ee4ff;Unknown <massimo.cimmino@polymtl.ca>;1517523216;"Fix docstrings
+
+"
+pre;massimocimmino_pygfunction;1f59872747190353d8eb937c021f1e6107b60ab8;Unknown <massimo.cimmino@polymtl.ca>;1518447658;"Fix summation limit in pipes._F_mk()
+
+"
+pre;massimocimmino_pygfunction;dd40a55c13c5710261e56da8c4c8414b811acfc3;Unknown <massimo.cimmino@polymtl.ca>;1518447808;"Update CHANGELOG.md
+
+"
+pre;massimocimmino_pygfunction;35683be45e0d87cbafb2446a91b5a131c2f7e3ef;Unknown <massimo.cimmino@polymtl.ca>;1520636752;"Increment to version 1.1.0
+
+"
+pre;massimocimmino_pygfunction;bb5448c2ff1c8ea7e3063d9b32551c03eeb67478;Massimo Cimmino <massimo.cimmino@polymtl.ca>;1520637698;Add doi from Zenodo.
+post;massimocimmino_pygfunction;f83ed7161ae940672f9d27334dc0c0fd214b09a1;Unknown <massimo.cimmino@polymtl.ca>;1541085796;"Initial implementation of coaxial pipes
+
+"
+post;massimocimmino_pygfunction;cdf6fad35fb7b080cc48a4bc7df5a9488917a9c2;Unknown <massimo.cimmino@polymtl.ca>;1541092980;"Example script for simulation of fluid temperature in multiple boreholes
+
+"
+post;massimocimmino_pygfunction;c27d6d01c91420034454c1b7878d172840a57f65;Unknown <massimo.cimmino@polymtl.ca>;1541627924;"Add documentation for example
+
+"
+post;massimocimmino_pygfunction;428e04a4a06761d8ebe92683545eac5bd6decf50;Unknown <massimo.cimmino@polymtl.ca>;1541690926;"Fix legend of temperature profile graph
+
+"
+post;massimocimmino_pygfunction;a32ac5dc7ca91ebcc7b61f604c7464e8172475b3;Massimo Cimmino <massimo.cimmino@polymtl.ca>;1541691253;"Merge pull request #38 from MassimoCimmino/issue37_loadAggregationMultipleBoreholesExample
+
+Issue37 load aggregation multiple boreholes example"
+post;massimocimmino_pygfunction;de26f898120702359366d860dfd2148c46a02955;Unknown <massimo.cimmino@polymtl.ca>;1541705595;"Create networks package
+
+"
+post;massimocimmino_pygfunction;08fd571327cbc6d0f2836b965030c9df8bb0bc72;Unknown <massimo.cimmino@polymtl.ca>;1541705870;"Move network-related functions to networks module
+
+"
+post;massimocimmino_pygfunction;42cc92bd81e4fd84e62616e049bc811c43b3c9f6;Unknown <massimo.cimmino@polymtl.ca>;1541706140;"Initial Network class
+
+"
+post;massimocimmino_pygfunction;1beb1a6527675875a88eb678c2c3bd98ff675f91;Unknown <massimo.cimmino@polymtl.ca>;1541712360;"Interface for coefficients_borehole_outlet_temperature
+
+"
+post;massimocimmino_pygfunction;bff33efc87b44f01be423b5c618f633595f5c25e;Unknown <massimo.cimmino@polymtl.ca>;1541713739;"Interfaces of other coefficients class methods
+
+"
+pre;raysect_source;43bd751d15c03a30283c6eb4441168db542edfa7;munechika-koyo <munechika.koyo@torus.nr.ttitech.ac.jp>;1702915900;"🚚  Replace `.npy` files to `.npz` file
+"
+pre;raysect_source;50067211b9b8db914c9575f468e32d18a23c6d8a;munechika-koyo <munechika.koyo@torus.nr.ttitech.ac.jp>;1702915900;"🚚  Replace `.npy` files to `.npz` file
+"
+pre;raysect_source;cbe36c9a77775e191eb532b94e5c6caa5b8b767f;munechika-koyo <munechika.koyo@torus.nr.ttitech.ac.jp>;1702916160;"Update `TetraMesh` to `TetraMeshData`
+
+I noticed that priviouse `TetraMesh` was derived from `MeshData` so I should rename it to not confuse it with primitive object as well
+"
+pre;raysect_source;f620725ab15dadf7bea4a1077cf3ed981fe1726d;munechika-koyo <munechika.koyo@torus.nr.ttitech.ac.jp>;1702916160;"Update `TetraMesh` to `TetraMeshData`
+
+I noticed that priviouse `TetraMesh` was derived from `MeshData` so I should rename it to not confuse it with primitive object as well
+"
+pre;raysect_source;dea9a5cfd15a54419fda32632631b5c3aabc3c6b;munechika-koyo <munechika.koyo@torus.nr.ttitech.ac.jp>;1702916193;"Update tetrahedra mesh demo script to follow `TetraMeshData`
+"
+pre;raysect_source;819737abc23e65c5a1244ad57adb56aca89b00b9;munechika-koyo <munechika.koyo@torus.nr.ttitech.ac.jp>;1702916193;"Update tetrahedra mesh demo script to follow `TetraMeshData`
+"
+pre;raysect_source;1985f4214885422661c7114d20a8a765e7a3afb0;Koyo MUNECHIKA <51052381+munechika-koyo@users.noreply.github.com>;1702916204;"Merge dea9a5cfd15a54419fda32632631b5c3aabc3c6b into 66fdf70933f5f48c049917c0667be874edc9def7
+"
+pre;raysect_source;20f57259136ded2db692a967e486ebec88066b8a;Dr Alex Meakins <CnlPepper@users.noreply.github.com>;1704373930;"Merge pull request #428 from jacklovell/v081_buildfix
+
+V0.8.1 buildfix"
+pre;raysect_source;6e22f6358d36a1446203741a8d945a1eb0e3749f;matteomoscheni <51951651+matteomoscheni@users.noreply.github.com>;1705141195;"Merge e4e7d8b969e818c68075e4e99dd26dbbde362b55 into 20f57259136ded2db692a967e486ebec88066b8a
+"
+pre;raysect_source;f02c573de99b593ccb1813d96c945d0bd3b90fe5;Matthew Carr <matthewncarr@gmail.com>;1708684354;"Merge 2d59c3045ee7596e31ced42fe5d5b15325a4e099 into 66fdf70933f5f48c049917c0667be874edc9def7
+"
+post;raysect_source;fe001f193f35374a2d5ab60e38d2173993415bc9;munechika-koyo <munechika.koyo@gmail.com>;1728911239;"♻️ Refactor setup.py for improved build process
+
+- replace `os.path` to `pathlib.Path`
+- formatted by `ruff`
+- add multiprocessing method `""spawn""` to intend windows build.
+"
+post;raysect_source;17914c99ef745b4ca168aebbdb8a10d55e306b20;munechika-koyo <munechika.koyo@gmail.com>;1729234408;"Refactor setup.py to raise an OSError for Windows users
+"
+post;raysect_source;cce7230cbad4fe2b568a98c8f6a776919d9834e6;munechika-koyo <munechika.koyo@gmail.com>;1729235320;"Refactor setup.py to specify numpy version requirement `""numpy<2.0""`
+"
+post;raysect_source;e59b41b89e9934cb992a814f5245e6c92c402eab;munechika-koyo <munechika.koyo@gmail.com>;1729238897;"Fix spectrum samples assignment in CosGlow class
+
+`Spectrum.samples` is readonly property
+"
+post;raysect_source;7a12a044135d0fbcfca1bf5e2ea2449428b9f4c6;munechika-koyo <munechika.koyo@gmail.com>;1732702977;"update cython version constraint in pyproject.toml
+"
+post;raysect_source;c991562a9c72b10fad4b8b6054f68c7ff06ad7eb;vsnever <vs-never@hotmail.com>;1732966935;"Merge branch 'master' into feature/regular_grid_emitters
+"
+post;raysect_source;d91faf41cdef28c34e1e5c22d44328e5cc7a384d;vsnever <vs-never@hotmail.com>;1732967774;"Add scipy to install_requires.
+"
+post;raysect_source;5e129da8ebd24212da4bc24360af76b117732f54;munechika-koyo <munechika.koyo@gmail.com>;1736757288;"Update documentation to reference `TetraMeshData` instead of `TetraMesh`
+"
+post;raysect_source;f24bda7a2ae1d43e903cde922a6f2dfb371987e8;munechika-koyo <munechika.koyo@gmail.com>;1739614502;"Add `TetraMeshData` class
+"
+post;raysect_source;1234389053e259ce01b5c5c6586dd8aa1a5e1a10;munechika-koyo <munechika.koyo@gmail.com>;1739619051;"Change ValueError to IndexError for invalid tetrahedra references
+"
+pre;serock3_master_thesis_qec_simulation;eed46465d4cd1b7322add39eae89ed10da9e0ba6;Sebastian Holmin <sebastian.holmin@hotmail.com>;1630188829;Minor changes (will proofread the rest later)
+pre;serock3_master_thesis_qec_simulation;563ed71f1e8ba57d942bff47e1b7460dda25755b;Sebastian Holmin <sebastian.holmin@hotmail.com>;1631104007;"Added a small note about Walsh matrices
+
+The multiplication table reminds me of Walsh matrices. Look into it in the future?"
+pre;serock3_master_thesis_qec_simulation;99e1afc0f2a485ee77953650aca3b4eef932cc1a;Sebastian Holmin <sebastian.holmin@hotmail.com>;1632948190;"Fixed spelling and polished writing up to ""project status""
+"
+pre;serock3_master_thesis_qec_simulation;16c97e6a4c2a64fa0a6fda7faf8058acc512aa4d;Sebastian Holmin <sebastian.holmin@hotmail.com>;1632948688;"Added surface code module
+
+Testing submodule without dash in name
+"
+pre;serock3_master_thesis_qec_simulation;3ec5d650ff8853145b01acc8737f57e60f736ae3;Sebastian Holmin <sebastian.holmin@hotmail.com>;1633161289;"Work started on testfile (with fixed import name)
+"
+pre;serock3_master_thesis_qec_simulation;2d1a410087014b660f741e4ba9f310f87e3a3c85;Sebastian Holmin <sebastian.holmin@hotmail.com>;1633369120;"Fix imports
+"
+pre;serock3_master_thesis_qec_simulation;29fbb36d3dd1e0dfad527759c4aea4b6a2d59950;Sebastian Holmin <sebastian.holmin@hotmail.com>;1633370243;"Change embedded images to be in repo
+"
+pre;serock3_master_thesis_qec_simulation;a40e99e7b377cdd66a3b6aafa0a119c1efcfed9e;Sebastian Holmin <sebastian.holmin@hotmail.com>;1633370427;"Remove erroneous warning
+"
+pre;serock3_master_thesis_qec_simulation;990006c30b13fe5c6eebebb3d578b5e8cd35a128;Sebastian Holmin <sebastian.holmin@hotmail.com>;1633606309;"Add qtcodes submodule
+"
+pre;serock3_master_thesis_qec_simulation;16b87f4994c0452bd242525bb92b05558bdbb908;Sebastian Holmin <sebastian.holmin@hotmail.com>;1633606327;"Update surface_code repo index
+"
+post;serock3_master_thesis_qec_simulation;4cf64afe4d8fdb63aea3fb139e08f0d1359f5830;Sebastian Holmin <sebastian.holmin@hotmail.com>;1639215098;"Minor updates to the README
+
+Mainly spelling and grammar."
+pre;tf-encrypted_tf-encrypted;1b0e17cbfea5b655eefb72493ecd9399d2f8fec2;zjn364739 <zjn364739@alibaba-inc.com>;1675661682;"fix tf compatibility
+"
+pre;tf-encrypted_tf-encrypted;1eeef17eb75ab2af6438e0a99b033f0b03023d41;zjn364739 <zjn364739@alibaba-inc.com>;1675667885;"fix tf compatibility
+"
+pre;tf-encrypted_tf-encrypted;7f699afde94259224870584242910200096d9999;zjn364739 <zjn364739@alibaba-inc.com>;1675673451;"version
+"
+pre;tf-encrypted_tf-encrypted;2e7b569617697e49177e8b73c32957e1b939bbaf;jiannan <34203047+zjn-code@users.noreply.github.com>;1675823150;"add i128 support and fix some bugs (#875)
+
+* fix secure random with big shape
+
+* int128 initial commit
+
+* fix some int128 issue
+
+* seed optim for private input
+
+* update tfe read and write
+
+* fix tfe.function decorate function with argument not tfe tensor
+
+* fix tfe tensor
+
+* fix i128 reduce sum
+
+* fix pond device issue
+
+* fix i128 conv2d
+
+* fix some test case
+
+* formatting
+
+* add i128 support for test case
+
+* formatting
+
+* fix macos compatibility
+
+* fix tf compatibility
+
+* fix tf compatibility
+
+* version
+
+---------
+
+Co-authored-by: zjn364739 <zjn364739@alibaba-inc.com>"
+pre;tf-encrypted_tf-encrypted;7eb2abff91ef7448bd41d7ad7376814635b34c72;Cheng (Vince) Hong <35251608+vincehong@users.noreply.github.com>;1683621829;Suggest install from source to avoid problems
+pre;tf-encrypted_tf-encrypted;ceecfe96826f3f2782b288816c9cdf56e3a0b70d;Cheng (Vince) Hong <35251608+vincehong@users.noreply.github.com>;1683621929;typo
+pre;tf-encrypted_tf-encrypted;61b0fd91671e74d602cbdfe2a4328cd2a985943f;gjj <30582212+gaojunjie03@users.noreply.github.com>;1697701518;"Update convolutional.py
+
+DepthwiseConv2D output shape 
+output channel should be n_filters*n_input_channel"
+pre;tf-encrypted_tf-encrypted;f45a73a9b0be4730c2be54f6a67dd66259e58a28;gjj <30582212+gaojunjie03@users.noreply.github.com>;1697702320;"Update convolutional.py
+
+DepthwiseConv2D output shape 
+output channel should be n_filters*n_input_channel"
+pre;tf-encrypted_tf-encrypted;a035d2c129d76bc92bd33143f157dd3bb5d5129a;gjj <30582212+gaojunjie03@users.noreply.github.com>;1697703009;"Update convolutional.py
+
+DepthwiseConv2D output shape
+output channel should be n_filters*n_input_channel"
+pre;tf-encrypted_tf-encrypted;156f6014e60d02a94e0bd2a445082f42a321831e;gjj <30582212+gaojunjie03@users.noreply.github.com>;1697703592;"Update convolutional.py
+
+DepthwiseConv2D output shape
+output channel should be n_filters*n_input_channel"
+post;tf-encrypted_tf-encrypted;84339da988775365a4f5687c08297ebc1ac7eee7;Zhicong Huang (Zico) <zhicong303@gmail.com>;1727182527;Fix bug: expected always unsigned, but result is signed for some params
+post;tf-encrypted_tf-encrypted;b2d89f05ac39f523cf1dd120c35af8c34ef2eaee;Zhicong Huang (Zico) <zhicong303@gmail.com>;1727242358;"Fix bug: expected always unsigned, but result is signed for some params (#901)
+
+"
+pre;the-virtual-brain_tvb-root;993176881ce9ca1b992dc8d03e654b059f0d65f4;liadomide <lia_domide@yahoo.com>;1529515859;"fix readme
+
+git-svn-id: https://repo.thevirtualbrain.org/svn/tvb/trunk@8736 1c0e02f0-7929-43c0-8fb3-3293bf43b0d1
+"
+pre;the-virtual-brain_tvb-root;dd8eca3a1f7316ab6798edc19531de7ed0ea8bed;liadomide <lia_domide@yahoo.com>;1529515862;"reorg & ""all"" to ""any"" arch
+
+git-svn-id: https://repo.thevirtualbrain.org/svn/tvb/trunk@8737 1c0e02f0-7929-43c0-8fb3-3293bf43b0d1
+"
+pre;the-virtual-brain_tvb-root;41af80856cfd025a843b7e80c3984438f134c76e;liadomide <lia_domide@yahoo.com>;1529515863;"keep dpkg files in debian branch
+
+git-svn-id: https://repo.thevirtualbrain.org/svn/tvb/trunk@8738 1c0e02f0-7929-43c0-8fb3-3293bf43b0d1
+"
+pre;the-virtual-brain_tvb-root;2cc21df16ffb5b34a8ede7297c0b3bda5b0884a4;liadomide <lia_domide@yahoo.com>;1529515865;"Merge changes from SVN
+
+git-svn-id: https://repo.thevirtualbrain.org/svn/tvb/trunk@8739 1c0e02f0-7929-43c0-8fb3-3293bf43b0d1
+"
+pre;the-virtual-brain_tvb-root;8add3cd4516739ea68982895ce7caff367741275;liadomide <lia_domide@yahoo.com>;1529516183;"Update README.md
+
+git-svn-id: https://repo.thevirtualbrain.org/svn/tvb/trunk@8740 1c0e02f0-7929-43c0-8fb3-3293bf43b0d1
+"
+pre;the-virtual-brain_tvb-root;de5adc93d82c32d0d12b1a63e78233bbc951141e;liadomide <lia_domide@yahoo.com>;1529516184;"TVB-2222
+
+Update copyright
+
+git-svn-id: https://repo.thevirtualbrain.org/svn/tvb/trunk@8741 1c0e02f0-7929-43c0-8fb3-3293bf43b0d1
+"
+pre;the-virtual-brain_tvb-root;883850bbd229788647011f52fab71bbb98b91811;liadomide <lia_domide@yahoo.com>;1529516186;"Update license text
+
+Change to GPLv3
+
+git-svn-id: https://repo.thevirtualbrain.org/svn/tvb/trunk@8742 1c0e02f0-7929-43c0-8fb3-3293bf43b0d1
+"
+pre;the-virtual-brain_tvb-root;70b53ea4e41529beb963558b0ffd36eaadbda3f1;liadomide <lia_domide@yahoo.com>;1529516187;"Merge changes from SVN
+
+git-svn-id: https://repo.thevirtualbrain.org/svn/tvb/trunk@8743 1c0e02f0-7929-43c0-8fb3-3293bf43b0d1
+"
+pre;the-virtual-brain_tvb-root;d7b520ea07efa05d461760f3a00f0802dbb79f13;liadomide <lia_domide@yahoo.com>;1529516527;"Revert wrong git-svn merge commit
+
+git-svn-id: https://repo.thevirtualbrain.org/svn/tvb/trunk@8744 1c0e02f0-7929-43c0-8fb3-3293bf43b0d1
+"
+pre;the-virtual-brain_tvb-root;1b7ffc00b9a88313cbb23ee7880a264a23ef84b7;liadomide <lia_domide@yahoo.com>;1529528527;"Update SVN revision number automatically from Hudson
+
+git-svn-id: https://repo.thevirtualbrain.org/svn/tvb/trunk@8745 1c0e02f0-7929-43c0-8fb3-3293bf43b0d1
+"
+post;the-virtual-brain_tvb-root;48db005253cc5b1894b105d8497b34111b27e0d7;mihandrei <mihai.daniel.psmg@gmail.com>;1543853596;"TVB-2375 Fixed phase plane with newer matplotlib.
+
+git-svn-id: https://repo.thevirtualbrain.org/svn/tvb/trunk@8763 1c0e02f0-7929-43c0-8fb3-3293bf43b0d1
+"
+post;the-virtual-brain_tvb-root;f746d8c3058a2849dadef883380234179d515ed6;popaula937 <paula.popa@codemart.ro>;1548749304;"Merge docker-build branch into trunk
+
+git-svn-id: https://repo.thevirtualbrain.org/svn/tvb/trunk@8798 1c0e02f0-7929-43c0-8fb3-3293bf43b0d1
+"
+post;the-virtual-brain_tvb-root;a6a7d34f5fa5016b7b27b45b2d6546501067a297;liadomide <lia_domide@yahoo.com>;1552332902;"TVB-2392 Rename before publishing full on Bithub
+
+git-svn-id: https://repo.thevirtualbrain.org/svn/tvb/trunk@8799 1c0e02f0-7929-43c0-8fb3-3293bf43b0d1
+"
+post;the-virtual-brain_tvb-root;661b9ce8fb13c404cca0686bb69085e4dfff87f3;liadomide <lia_domide@yahoo.com>;1552479318;"HBP-8 Remove contributor setup. Update documentation also
+
+git-svn-id: https://repo.thevirtualbrain.org/svn/tvb/trunk@8800 1c0e02f0-7929-43c0-8fb3-3293bf43b0d1
+"
+post;the-virtual-brain_tvb-root;420e7c02ed609a475f1b5f85bec8287305fa58d9;liadomide <lia_domide@yahoo.com>;1552564544;"TVB-2392 Rename before publishing full on Github
+
+git-svn-id: https://repo.thevirtualbrain.org/svn/tvb/trunk@8801 1c0e02f0-7929-43c0-8fb3-3293bf43b0d1
+"
+post;the-virtual-brain_tvb-root;090f37c0f9eb575af483586028b811eea7799e93;liadomide <lia_domide@yahoo.com>;1557213794;"Merge branch 'master' of https://github.com/the-virtual-brain/tvb-framework
+
+git-svn-id: https://repo.thevirtualbrain.org/svn/tvb/trunk@8802 1c0e02f0-7929-43c0-8fb3-3293bf43b0d1
+"
+post;the-virtual-brain_tvb-root;2a1f85013b6d6e77939b10f44202b7c03c9d3a4d;liadomide <lia_domide@yahoo.com>;1557214245;"Merge branch 'trunk' of https://github.com/the-virtual-brain/tvb-library into trunk
+
+# Conflicts:
+#	tvb/basic/config/tvb.version
+
+git-svn-id: https://repo.thevirtualbrain.org/svn/tvb/trunk@8803 1c0e02f0-7929-43c0-8fb3-3293bf43b0d1
+"
+post;the-virtual-brain_tvb-root;ef5e28b601eafe70a71690685716f58ca02f458d;liadomide <lia_domide@yahoo.com>;1557227871;"Fix typo in function name
+
+git-svn-id: https://repo.thevirtualbrain.org/svn/tvb/trunk@8804 1c0e02f0-7929-43c0-8fb3-3293bf43b0d1
+"
+post;the-virtual-brain_tvb-root;4d11ff76fe6bdbcdc44a0f756808ee76bfd07f55;liadomide <lia_domide@yahoo.com>;1557329820;"TVB-2411 Integrate changes from Francesca to achieve compatibility with AllenSDK 0.16
+
+git-svn-id: https://repo.thevirtualbrain.org/svn/tvb/trunk@8805 1c0e02f0-7929-43c0-8fb3-3293bf43b0d1
+"
+post;the-virtual-brain_tvb-root;2cfa483e21f495b27a006d6728bb6eb3d30af146;liadomide <lia_domide@yahoo.com>;1557331222;"TVB-2392 Move around before publishing full on Github
+
+git-svn-id: https://repo.thevirtualbrain.org/svn/tvb/trunk@8806 1c0e02f0-7929-43c0-8fb3-3293bf43b0d1
+"
+pre;xtra-computing_thundergbm;ca0715effdfd418fb7e5c260cc5467f12d6dcc42;Borui Xu <boruixu@mail.sdu.edu.cn>;1689132471;"optimize update ins_node_map array process
+"
+pre;xtra-computing_thundergbm;b509261ae4ec9df88b760e5d51b380beb829d372;Borui Xu <boruixu@mail.sdu.edu.cn>;1689153391;"define update instances per loop instead of update loop nums
+"
+pre;xtra-computing_thundergbm;4a34c9c9c51d7ab246b478c3d4dbedbbe354c04f;Borui Xu <boruixu@mail.sdu.edu.cn>;1689239187;"update total_size size
+"
+pre;xtra-computing_thundergbm;862875cc4319338eff3984eb282f328e415b585a;Borui Xu <boruixu@mail.sdu.edu.cn>;1689249746;"delete unnecessary operation
+"
+pre;xtra-computing_thundergbm;f4d564f31fa4c808901397167f8954a2849ac1f6;Borui Xu <boruixu@mail.sdu.edu.cn>;1689398936;"optimize update instance to node map process
+"
+pre;xtra-computing_thundergbm;9c936067881b2d8128606a753208257e6f78e571;Borui Xu <boruixu@mail.sdu.edu.cn>;1689648770;"delete unnecessary output
+"
+pre;xtra-computing_thundergbm;e825a753a7ead1dde8b4a8df8c25e00bf8d98413;Borui Xu <boruixu@mail.sdu.edu.cn>;1689913221;"modify timing func
+"
+pre;xtra-computing_thundergbm;a252e7fd57dde5ed26ab949362f6496f4f856dc3;Borui Xu <boruixu@mail.sdu.edu.cn>;1694343097;"fix some bugs and imporve stability
+"
+pre;xtra-computing_thundergbm;7636272bb39f7fe0015cf98891b23dcf0b37e0ca;Borui Xu <boruixu@mail.sdu.edu.cn>;1695696909;"fix label mapping bug
+"
+pre;xtra-computing_thundergbm;ffacda1825ad5751171ed79e26476bb491bb385c;BoruiXu <xuborui168@126.com>;1706531185;"optimize the efficiency of the histogram method on a single GPU and fix some bugs
+"
+post;xtra-computing_thundergbm;ba2f22a186221e30ca688081890bc3cda10bcfa7;Borui Xu <xuborui168@126.com>;1742375002;Update README.md
+post;xtra-computing_thundergbm;e3f824e4bdeba9230f4230b121f87119f63c425c;Borui Xu <xuborui168@126.com>;1742375195;Update README.md

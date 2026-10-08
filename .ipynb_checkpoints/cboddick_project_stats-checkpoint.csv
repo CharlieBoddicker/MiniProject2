@@ -1,0 +1,11 @@
+project;number_of_commits;number_of_authors;max_time;min_time;number of stars;number of forks;last commit date;LongestGapStart;LongestGapEnd;LongestGapLength;NumCommitsAfterLastGap;NumberOfGapsInTimeline;ActivityPattern
+baggepinnen_spectraldistances.jl;759;7;1776126985;1568771532;49;5;2026-01-15;2023-02;2025-06;29;29;3;cyclical
+itowns_itowns;9190;142;1762275571;1443101686;1300;317;2026-09-14;;;0;0;0;declining
+maria-korosteleva_garment-pattern-estimation;1378;11;1736211317;1582260169;181;21;2024-12-23;2023-12;2024-11;12;2;3;declining
+massimocimmino_pygfunction;1385;22;1771443588;1502741635;72;26;2025-08-04;2018-04;2018-10;7;1136;7;irregular
+nimble-dev_nimble;9730;73;1762381653;1402585122;198;27;2026-08-31;;;0;0;0;steady
+raysect_source;2366;33;1758534567;1376432727;112;25;2025-08-25;2024-03;2024-09;7;143;4;cyclical
+serock3_master_thesis_qec_simulation;496;6;1639215098;1611075452;5;0;2024-09-07;2021-11;2021-11;1;1;0;cyclical
+tf-encrypted_tf-encrypted;3165;49;1727242358;1521656591;1200;211;2024-09-25;2023-11;2024-08;10;2;4;declining
+the-virtual-brain_tvb-root;10306;136;1776180337;1401877909;190;151;2026-09-23;2018-07;2018-11;5;7764;1;steady
+xtra-computing_thundergbm;683;24;1742375195;1453180646;715;88;2025-03-19;2024-02;2025-02;13;2;7;declining
